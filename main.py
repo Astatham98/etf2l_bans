@@ -79,7 +79,7 @@ for i, ID in enumerate(player_ids):
 
 df = pd.DataFrame(player_dicts)
 print(df.head(20))
-df.to_csv('output_110724.csv', index=False)
+df.to_csv('output_150724.csv', index=False)
     
 
 
